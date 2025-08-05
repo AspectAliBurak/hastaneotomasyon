@@ -38,7 +38,7 @@ namespace hastaneotomasyon
             da.Fill(dt);
             dataGridView1.DataSource = dt;
 
-            dataGridView1.Columns["adi"].HeaderText = "Polikinlik Adı";
+            dataGridView1.Columns["adi"].HeaderText = "Poliklinik Adı";
             dataGridView1.Columns["id"].Visible = false;
         }
 

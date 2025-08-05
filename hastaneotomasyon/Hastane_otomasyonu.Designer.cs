@@ -83,7 +83,7 @@
             // 
             polikinlikİşlemleriToolStripMenuItem.Name = "polikinlikİşlemleriToolStripMenuItem";
             polikinlikİşlemleriToolStripMenuItem.Size = new Size(141, 24);
-            polikinlikİşlemleriToolStripMenuItem.Text = "Polikinlik İşlemleri";
+            polikinlikİşlemleriToolStripMenuItem.Text = "Poliklinik İşlemleri";
             polikinlikİşlemleriToolStripMenuItem.Click += polikinlikİşlemleriToolStripMenuItem_Click;
             // 
             // adminİşlemleriToolStripMenuItem

@@ -94,7 +94,7 @@
             label7.Name = "label7";
             label7.Size = new Size(72, 20);
             label7.TabIndex = 13;
-            label7.Text = "Polikinlik";
+            label7.Text = "Poliklinik";
             // 
             // label8
             // 

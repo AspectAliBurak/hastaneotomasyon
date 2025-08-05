@@ -200,6 +200,7 @@ namespace hastaneotomasyon
                     SqlCommand sil = new SqlCommand("DELETE FROM hastabilgi WHERE hasta_id = @hasta_id", baglanti);
                     sil.Parameters.AddWithValue("@hasta_id", hasta_id);
                     sil.ExecuteNonQuery();
+                    baglanti.Close();
                 }
             }
 

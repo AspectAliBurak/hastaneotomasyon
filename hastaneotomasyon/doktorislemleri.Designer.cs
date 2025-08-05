@@ -119,7 +119,7 @@
             label6.Name = "label6";
             label6.Size = new Size(72, 20);
             label6.TabIndex = 23;
-            label6.Text = "Polikinlik";
+            label6.Text = "Poliklinik";
             // 
             // comboBox1
             // 

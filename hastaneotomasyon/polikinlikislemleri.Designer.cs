@@ -58,7 +58,7 @@
             label1.Name = "label1";
             label1.Size = new Size(100, 20);
             label1.TabIndex = 2;
-            label1.Text = "Polikinlik Adı";
+            label1.Text = "Poliklinik Adı";
             // 
             // textBox1
             // 
@@ -133,7 +133,7 @@
             button9.Name = "button9";
             button9.Size = new Size(154, 36);
             button9.TabIndex = 12;
-            button9.Text = "Yeni Polikinlik Ekle";
+            button9.Text = "Yeni Poliklinik Ekle";
             button9.UseVisualStyleBackColor = false;
             button9.Click += button9_Click;
             // 
